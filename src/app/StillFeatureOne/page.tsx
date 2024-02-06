@@ -4,7 +4,7 @@ const StillFeatureOne = () => {
   return (
 
     <div><h1>This part added by the owner</h1></div>
-    <h1>Added line </h1>
+   
 
 
   )
